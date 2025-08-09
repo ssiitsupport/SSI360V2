@@ -1,0 +1,6 @@
+@SSI360V2.API_HostAddress = http://localhost:5263
+
+GET {{SSI360V2.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
